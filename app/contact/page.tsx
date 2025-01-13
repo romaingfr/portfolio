@@ -15,9 +15,7 @@ export default function Contact() {
 
     const handleSubmit = (e: React.FormEvent) => {
         e.preventDefault()
-        // Ici, vous pouvez ajouter la logique pour envoyer le formulaire
         console.log('Formulaire soumis', { name, email, message })
-        // Réinitialiser le formulaire
         setName('')
         setEmail('')
         setMessage('')
@@ -68,7 +66,7 @@ export default function Contact() {
                     <Card>
                         <CardHeader>
                             <CardTitle>Informations de contact</CardTitle>
-                            <CardDescription>N'hésitez pas à me contacter par ces moyens.</CardDescription>
+                            <CardDescription>N&#39;hésitez pas à me contacter par ces moyens.</CardDescription>
                         </CardHeader>
                         <CardContent className="space-y-4">
                             <div className="flex items-center space-x-2">

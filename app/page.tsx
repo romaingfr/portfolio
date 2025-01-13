@@ -23,7 +23,7 @@ export default function Home() {
             Développeur Web Passionné
           </h2>
           <p className="text-xl mb-8 max-w-2xl">
-            Je suis un développeur créatif spécialisé dans la création d'expériences web incroyables.
+            Je suis un développeur créatif spécialisé dans la création d&#39;expériences web incroyables.
             Explorez mon travail et découvrez comment je peux donner vie à vos idées.
           </p>
           <div className="space-x-4">

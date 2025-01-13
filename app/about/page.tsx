@@ -17,12 +17,12 @@ export default function About() {
                 <Card className="mb-8">
                     <CardContent className="pt-6">
                         <p className="text-lg mb-4">
-                            Bonjour ! Je suis un développeur web passionné avec une expérience dans la création d'applications web modernes et réactives.
-                            J'aime résoudre des problèmes complexes et apprendre de nouvelles technologies pour créer des solutions innovantes.
+                            Bonjour ! Je suis un développeur web passionné avec une expérience dans la création d&#39;applications web modernes et réactives.
+                            J&#39;aime résoudre des problèmes complexes et apprendre de nouvelles technologies pour créer des solutions innovantes.
                         </p>
                         <p className="text-lg mb-4">
-                            Mon parcours dans le développement web a commencé il y a 4 ans, et depuis, j'ai travaillé sur une variété de projets passionnants,
-                            allant des sites vitrines aux applications web complexes. Je suis toujours à la recherche de nouveaux défis et d'opportunités pour grandir en tant que développeur.
+                            Mon parcours dans le développement web a commencé il y a 4 ans, et depuis, j&#39;ai travaillé sur une variété de projets passionnants,
+                            allant des sites vitrines aux applications web complexes. Je suis toujours à la recherche de nouveaux défis et d&#39;opportunités pour grandir en tant que développeur.
                         </p>
                     </CardContent>
                 </Card>
